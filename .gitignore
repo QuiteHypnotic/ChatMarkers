@@ -1,0 +1,8 @@
+xcuserdata/
+node_modules/
+FacebookSDK.framework/
+*.pem
+*.cer
+*.p12
+aws.json
+.DS_Store
